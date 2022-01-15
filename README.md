@@ -24,3 +24,14 @@ In this dashboard, we will uncover the patterns, trends and KPIs in the dataset 
 ## Interactive Live Demo of Sales Analytics Power BI dashboard:
 
 https://app.powerbi.com/view?r=eyJrIjoiNjJmMWNjMzMtODM4Ny00N2UxLWJhZTUtMDExYzc4ZTJlNTkzIiwidCI6ImEwODM3YzBlLWY1MmUtNDhmMy04MjdlLWEzOTNkM2Y3ZGViNyJ9
+
+## Dashboard Features
+
+1. Home Page with Overview of KPI's in Dashboard
+2. Filter Pane Visual to filter data based on user requirements
+3. Filter Clear Button to clear all filters applied in Dashboard in one go
+4. Page Navigation Buttons to slide through different pages in Dashboard
+5. Tool Tips on each visual to display facts and metrics
+6. Flexibility in choosing Dark and Light mode dashboard based on User Experience
+7. Conditional Formatting in Sales Person Ranking
+8. Deployed and Accessible from anywhere online through Desktop & Mobile
