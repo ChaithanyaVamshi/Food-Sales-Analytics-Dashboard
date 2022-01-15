@@ -14,12 +14,13 @@ In this dashboard, we will uncover the patterns, trends and KPIs in the dataset 
 4. Who are the Top 5 Salespersons by Revenue and Orders?
 5. Who are the Top Ranking Salespersons based on their performance?
 
-##Snaphot of the Dashboard
+## Snaphot of the Sales Analytics Dashboard
 
-![](images/dark.png)
+![](images/Dark.png)
+![](images/light.png)
+![](images/ranking.png)
 
-## Live Demo of the Dashboard
 
-The interactive Live Power BI dashboard can be viewed here:
+## Interactive Live Demo of Sales Analytics Power BI dashboard:
 
-[![Power BI Dashboard][dark]][https://app.powerbi.com/reportEmbed?reportId=d9f6babf-e3ed-4bd8-987b-7a99a7022df7&autoAuth=true&ctid=3c539bf4-f64c-4655-b2ca-d11328b8f95b&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVrLXNvdXRoLWMtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D]
+https://app.powerbi.com/view?r=eyJrIjoiNjJmMWNjMzMtODM4Ny00N2UxLWJhZTUtMDExYzc4ZTJlNTkzIiwidCI6ImEwODM3YzBlLWY1MmUtNDhmMy04MjdlLWEzOTNkM2Y3ZGViNyJ9
