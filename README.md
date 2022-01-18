@@ -16,8 +16,13 @@ In this dashboard, we will uncover the patterns, trends and KPIs in the dataset 
 
 ## Snaphot of the Sales Analytics Dashboard
 
+### 1. Sales Analytics - Dark Mode
 ![](images/Dark.png)
+
+### 2. Sales Analytics - Light Mode
 ![](images/light.png)
+
+### 3. Sales Ranking Analytics
 ![](images/ranking.png)
 
 
