@@ -26,7 +26,7 @@ In this dashboard, we will uncover the patterns, trends and KPIs in the dataset 
 ![](images/ranking.png)
 
 
-## Interactive Live Demo of Sales Analytics Power BI dashboard:
+## Interactive Live Demo of Sales Analytics Power BI dashboard
 
 Link : https://app.powerbi.com/view?r=eyJrIjoiNjJmMWNjMzMtODM4Ny00N2UxLWJhZTUtMDExYzc4ZTJlNTkzIiwidCI6ImEwODM3YzBlLWY1MmUtNDhmMy04MjdlLWEzOTNkM2Y3ZGViNyJ9
 
